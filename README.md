@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -70,3 +71,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 =======
 # mibook
 >>>>>>> b2bb99d299ac48cb7f054cd6ec2a875a1c9d974f
+=======
+# mibook
+>>>>>>> a92cc61aabc95acf613d5c3b049f37353f83ee32
